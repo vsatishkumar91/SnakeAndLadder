@@ -1,0 +1,20 @@
+﻿# =========================
+# Editors
+# =========================
+.vs
+.idea
+.vscode
+
+# =========================
+# Common folders and files
+# =========================
+.angular
+.sonarqube
+dist/
+node_modules/
+tmp
+.jest-cache
+
+# =========================
+bin/
+obj/
